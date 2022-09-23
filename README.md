@@ -6,7 +6,7 @@
 <table>
     <tr>
         <td>E-mail:</td>
-        <td><a mailto:karetskii.vo@phystech.edu>karetskii.vo@phystech.edu</a></td>
+        <td><a href="mailto:karetskii.vo@phystech.edu">karetskii.vo@phystech.edu</a></td>
     </tr>
     <tr>
         <td><a href="https://vk.com">VK</td>
