@@ -2,14 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h5 align="center">Computer science student from MIPT</h5>
 
+<font size="12" face="Courier New">
+
 
 <table>
     <tr>
         <td>E-mail:</td>
-        <td><a href="https://mailto:karetskii.vo@phystech.edu?subject=По поводу репозитория">karetskii.vo@phystech.edu</a></td>
+        <td>karetskii.vo@phystech.edu</td>
     </tr>
     <tr>
         <td><a href="https://vk.com">VK</td>
         <td><a href="https://vk.com/vlad_veliky/">Влад Карецкий</a></td>
     </tr>
 </table>
+
+</font>
