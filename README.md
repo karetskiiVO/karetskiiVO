@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h5 align="center">Computer science student from MIPT</h5>
 
-<font size="12" face="Courier New">
+<font size="12" face="Courier new">
 
 
 <table>
