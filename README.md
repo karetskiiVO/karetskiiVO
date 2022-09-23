@@ -27,7 +27,7 @@
     </tr>
     <tr>
         <td>Educational<br>projects</td>
-        <td cellpadding="0"><table>
+        <td valign="top"><table>
             <tr>
                 <td><a href="https://github.com/karetskiiVO/QuadraticEquations">Quadric equations solver</a></td>
                 <td><a>My first education progect in learning C(99)</a></td>
