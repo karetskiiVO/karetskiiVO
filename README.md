@@ -5,10 +5,8 @@
 <font size="12" face="Courier new">
 
 
-<table algrin=margin-right>
-    <tr>
-        <td>Contacts</td>
-    </tr>
+<table align=margin-right>
+    <title>Contacts</title>
     <tr>
         <td>E-mail:</td>
         <td>karetskii.vo@phystech.edu</td>
