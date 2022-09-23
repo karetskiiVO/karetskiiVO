@@ -21,4 +21,27 @@
 
 <a>I am interested in game development, physical modeling and programming of microcontrollers</a>
 
+<table>
+    <tr>
+        <td colspan="2" style="text-align:center">My projects</td>
+    </tr>
+    <tr>
+        <td>Educational<br>projects</td>
+        <td><table>
+            <tr>
+                <td><a href="https://github.com/karetskiiVO/QuadraticEquations">Quadric equations solver</a></td>
+                <td><a>My first education progect in learning C(99)</a></td>
+            </tr> 
+            <tr>
+                <td><a href="https://github.com/karetskiiVO/strlib">"strlib.h"</a></td>
+                <td><a>My own library for working with strings in C</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/karetskiiVO/poemCorrector">Text processor</td>
+                <td><a>Using</a></td>
+            </tr>
+        </table></td>
+    </tr>
+</table>
+
 </font>
