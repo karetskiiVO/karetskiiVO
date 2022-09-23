@@ -38,7 +38,7 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/karetskiiVO/poemCorrector">Text processor</td>
-                <td><a>Using</a></td>
+                <td><a>Using <a href="https://github.com/karetskiiVO/strlib">"strlib.h"</a> for processing big text</a></td>
             </tr>
         </table></td>
     </tr>
