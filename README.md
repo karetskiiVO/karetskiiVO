@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h5 align="center">Computer science student from MIPT</h5>
 
-<td>
-    <tr>E-mail:</tr>
-</td>
-<td>
-    <tr>karetskii.vo@phystech.edu</tr>
-</td>
+<tr>
+    <td>E-mail:</td>
+</tr>
+<tr>
+    <td>karetskii.vo@phystech.edu</td>
+</tr>
