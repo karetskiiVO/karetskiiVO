@@ -4,10 +4,10 @@
 
 
 <table>
-    <td>
-        <tr>E-mail:</tr>
-    </td>
-    <td>
-        <tr>karetskii.vo@phystech.edu</tr>
-    </td>
+    <tr>
+        <td>E-mail:</td>
+    </tr>
+    <tr>
+        <td>karetskii.vo@phystech.edu</td>
+    </tr>
 </table>
