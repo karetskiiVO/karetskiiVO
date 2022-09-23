@@ -6,7 +6,9 @@
 
 
 <table align=margin-right>
-    <title>Contacts</title>
+    <tr>
+        <td colspan="2" face="Courier new" style="text-align:center"></td>
+    </tr>
     <tr>
         <td>E-mail:</td>
         <td>karetskii.vo@phystech.edu</td>
