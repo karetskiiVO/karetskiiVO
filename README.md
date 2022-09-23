@@ -7,7 +7,7 @@
 
 <table align=margin-right>
     <tr>
-        <td colspan="2" face="Courier new" style="text-align:center"></td>
+        <td colspan="2" face="Courier new" style="text-align:center">Contacts</td>
     </tr>
     <tr>
         <td>E-mail:</td>
