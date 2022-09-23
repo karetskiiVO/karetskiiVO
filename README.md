@@ -19,4 +19,6 @@
     </tr>
 </table>
 
+<a>I am interested in game development, physical modeling and programming of microcontrollers</a>
+
 </font>
