@@ -40,6 +40,10 @@
                 <td><a href="https://github.com/karetskiiVO/poemCorrector">Text processor</td>
                 <td><a>Using <a href="https://github.com/karetskiiVO/strlib">"strlib.h"</a> for processing big text</a></td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/karetskiiVO/cstack">"cstack.h"</td>
+                <td><a>My own implementation of the stack structure</a></td>
+            </tr>
         </table></td>
     </tr>
 </table>
