@@ -44,6 +44,14 @@
                 <td><a href="https://github.com/karetskiiVO/cstack">"cstack.h"</td>
                 <td><a>My own implementation of the stack structure</a></td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/karetskiiVO/preAssembler">preAssembler</td>
+                <td><a>My own assemler-style language. It also contains virtual-CPU, thats you need to start code.</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/karetskiiVO/clist">"clist.h"</td>
+                <td><a>My own implementation of the list structure</a></td>
+            </tr>
         </table></td>
     </tr>
 </table>
