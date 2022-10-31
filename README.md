@@ -37,19 +37,20 @@
                 <td><a>My own library for working with strings in C</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/karetskiiVO/poemCorrector">Text processor</td>
+                <td><a href="https://github.com/karetskiiVO/poemCorrector">Text processor</a></td>
                 <td><a>Using <a href="https://github.com/karetskiiVO/strlib">"strlib.h"</a> for processing big text</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/karetskiiVO/cstack">"cstack.h"</td>
+                <td><a href="https://github.com/karetskiiVO/cstack">"cstack.h"</a></td>
                 <td><a>My own implementation of the stack structure</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/karetskiiVO/preAssembler">preAssembler</td>
-                <td><a>My own assemler-style language. It also contains virtual-CPU, thats you need to start code.</a></td>
+                <td><a href="https://github.com/karetskiiVO/preAssembler">preAssembler</a></td>
+                <td><a>My own assemler-style language. <br>It also contains virtual-CPU, thats you need to start code.<br>
+                Powered with <a href="https://github.com/karetskiiVO/cstack">"cstack.h"</a></a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/karetskiiVO/clist">"clist.h"</td>
+                <td><a href="https://github.com/karetskiiVO/clist">"clist.h"</a></td>
                 <td><a>My own implementation of the list structure</a></td>
             </tr>
         </table></td>
