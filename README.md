@@ -29,7 +29,7 @@
         <td><table>
             <tr>
                 <td><a href="https://github.com/karetskiiVO/GameDevCourses/tree/master/LunarLander">LunarLander</a></td>
-                <td><a>Реализация классической аркаднойигры на "чистом" C++</a></td>
+                <td><a>Реализация классической аркадной игры на "чистом" C++</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/karetskiiVO/stm32-keyboard">STM32 keyboard</a></td>
